@@ -8,7 +8,7 @@
   - [Ship your product in a weekend](introduction/ship.md)
 - [Weekend Sprint: A DIY Design Sprint for Indie Makers](weekend_sprint/index.md)
   - [What is a "Weekend Sprint"](weekend_sprint/introduction.md)
-  - [Case Study: Building "Plain"](/weekend_sprint/case_study.md)
+  - [Case Study: Building "Plain"](weekend_sprint/case_study.md)
   - [Step 1: Problem Discovery](weekend_sprint/problem_discovery.md)
   - [Step 2: Problem Definition](weekend_sprint/problem_definition.md)
   - [Step 3: User Story Creation](weekend_sprint/user_story.md)
